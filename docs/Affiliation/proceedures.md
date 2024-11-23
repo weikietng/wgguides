@@ -1,9 +1,9 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 # Proceedures
 
-## 📝 Application
+## Application
 **Step 1:** Evaluate if your community meets our requirements. Contact the open a relations department ticket in Water Grill if you wish to be exempted from a certain requirement.
 
 **Step 2:** Fill up the alliance application link and inform a member of our relations department.
@@ -16,7 +16,7 @@ sidebar_position: 2
     Apply Now
 </button>
 
-## 📋 Terminations
+## Terminations
 We reserve the right to terminate any of our alliances for any of the following reasons.
 
 - Failure to meet/maintain the standard and requirements stated in the Alliance Requirement section of this document even after official warning.
@@ -28,7 +28,7 @@ All of our alliance terminations will be in effect immediately once announced. H
 
 You may also choose to terminate our alliance. However, please ensure to inform our alliance representative beforehand.
 
-## ⚫ Group Blacklist
+## Group Blacklist
 We reserve the right to blacklist groups from becoming an alliance with us for various reasons. Some of the reasons may include but not limited to:
 
 - Severe breach of Water Grill's alliance guidelines

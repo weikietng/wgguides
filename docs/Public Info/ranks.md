@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Rank Guides
@@ -201,5 +201,3 @@ All promotions above Executive Intern are hand-picked by the presidential team a
 
   Hand-picked by executive board
 </details>
-
-
